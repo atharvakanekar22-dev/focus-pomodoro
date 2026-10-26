@@ -10,6 +10,19 @@ The timer is calculated from timestamps rather than relying only on interval cou
 
 No account is required to get started.
 
+## Screenshots
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/ba416263-800e-43dc-8965-0f452ed72491" />
+
+
+<img width="931" height="499" alt="Screenshot 2026-10-26 233437" src="https://github.com/user-attachments/assets/ec72fc72-2932-4fed-8847-51fed8647f83" />
+
+<img width="1920" height="1200" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/e9c28bb9-2dee-43f2-9465-73219436d0d6" />
+
+<img width="1920" height="1200" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/38ea6c2e-9d58-4810-9010-3bdb0fac6523" />
+
+
+
 
 
 ## Features
