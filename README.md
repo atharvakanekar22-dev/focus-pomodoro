@@ -1,8 +1,16 @@
 # Focus
 
+## Live Demo
+
+**Try Focus:** [Launch the Pomodoro Timer](https://focus-pomodoro-timer-blue.vercel.app/)
+
 Focus is a calm, browser-based Pomodoro timer built with React, TypeScript, and Vite. It provides focused work sessions, short and long breaks, visual progress feedback, optional completion sounds, browser notifications, and a responsive web-app interface.
 
 The timer is calculated from timestamps rather than relying only on interval counts. This keeps the countdown accurate when the browser throttles a background tab or when the page becomes temporarily hidden.
+
+No account is required to get started.
+
+
 
 ## Features
 
